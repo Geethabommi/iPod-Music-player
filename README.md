@@ -1,7 +1,8 @@
 # iPod-Web Player
  The application is used to play and listen to music.It provides customisable UI settings such as
  theme,wallpaper and color change of iPod web player.
-
+ 
+ Application is depoyed at https://geethabommi.github.io/iPod-Music-player/
 ## Tools,stacks and library used: 
     HTML,CSS and Reactjs
 
@@ -25,11 +26,15 @@
 7. Please checkout settings menu for Theme,wallpaper and color change
 
 ### Lock Screen and Main Menu
+![image](https://user-images.githubusercontent.com/30235824/183598574-9eb54606-ffd4-4c13-8a9a-dff1f5c44b03.png)
 
 
-### Now Playing and Themes
+### Now Playing songs
+![image](https://user-images.githubusercontent.com/30235824/183598448-d619feca-b633-4368-b3eb-75770d07ad3c.png)
 
 ### Different theme and wallpaper applied
+![image](https://user-images.githubusercontent.com/30235824/183598915-3880cc81-7330-4d3d-9ea5-4e9e3a58a0fa.png)
+![image](https://user-images.githubusercontent.com/30235824/183599276-2b1e002d-b40c-4cbd-820a-72616b0ccd64.png)
 
 ## To run the project
 

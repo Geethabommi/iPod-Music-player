@@ -1,0 +1,29 @@
+.display {
+  /* background-image: url("../static/AudioTapes.png"); */
+  background-size: cover;
+  background-position: center;
+  width: 270px;
+  height: 210px;
+  margin-top: 25px;
+  border: 1.5px solid black;
+  padding: 3px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+.blank-div {
+  width: 270px;
+  height: 200px;
+  /* background-color: #E3F2FD; */
+  background-color: #e3f2fdb5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.empty-text {
+  margin: 5px;
+  text-align: center;
+}

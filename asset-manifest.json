@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.259b7a4a.css",
-    "main.js": "/static/js/main.18177790.js",
-    "static/media/ZAYN Dusk Till Dawn.mp3": "/static/media/ZAYN Dusk Till Dawn.2769b80130759c994b2e.mp3",
-    "static/media/Kate bush Running up that hill.mp3": "/static/media/Kate bush Running up that hill.dc75815731136a6d5006.mp3",
-    "static/media/Charlie Puth Attention.mp3": "/static/media/Charlie Puth Attention.bc403cf277b7eeabb37d.mp3",
-    "static/media/Dua Lipa New Rules.mp3": "/static/media/Dua Lipa New Rules.d9978c50e4189e5a51ec.mp3",
-    "static/media/1D What Makes You Beautiful.mp3": "/static/media/1D What Makes You Beautiful.d8243c58fb192ce7811c.mp3",
-    "static/media/Trees.jpeg": "/static/media/Trees.2a8d27e9297d483823bf.jpeg",
-    "static/media/Tower.jpeg": "/static/media/Tower.1a75d9fa086acca6f9d6.jpeg",
-    "static/media/Mountain.jpeg": "/static/media/Mountain.638e73d094214074bf9a.jpeg",
-    "static/media/Ocean.jpeg": "/static/media/Ocean.c3721265e9247828b5d8.jpeg",
-    "static/media/Mist.jpeg": "/static/media/Mist.d0eee47be3f769239793.jpeg",
-    "static/media/Games.jpg": "/static/media/Games.aedc284248c652c9920e.jpg",
-    "static/media/music.jpg": "/static/media/music.33734e15c4b3090767fa.jpg",
-    "static/media/Settings.jpg": "/static/media/Settings.50690c9f1d4dc21e06c9.jpg",
-    "static/media/Dua Lipa New Rules.jpeg": "/static/media/Dua Lipa New Rules.3fc7de8a7de7b989b316.jpeg",
-    "static/media/1D What Makes You Beautiful.jpeg": "/static/media/1D What Makes You Beautiful.62662f7b1a99ae0daea1.jpeg",
-    "index.html": "/index.html",
-    "main.259b7a4a.css.map": "/static/css/main.259b7a4a.css.map",
-    "main.18177790.js.map": "/static/js/main.18177790.js.map"
+    "main.css": "/iPod-Music-player/static/css/main.259b7a4a.css",
+    "main.js": "/iPod-Music-player/static/js/main.0b5b1344.js",
+    "static/media/ZAYN Dusk Till Dawn.mp3": "/iPod-Music-player/static/media/ZAYN Dusk Till Dawn.2769b80130759c994b2e.mp3",
+    "static/media/Kate bush Running up that hill.mp3": "/iPod-Music-player/static/media/Kate bush Running up that hill.dc75815731136a6d5006.mp3",
+    "static/media/Charlie Puth Attention.mp3": "/iPod-Music-player/static/media/Charlie Puth Attention.bc403cf277b7eeabb37d.mp3",
+    "static/media/Dua Lipa New Rules.mp3": "/iPod-Music-player/static/media/Dua Lipa New Rules.d9978c50e4189e5a51ec.mp3",
+    "static/media/1D What Makes You Beautiful.mp3": "/iPod-Music-player/static/media/1D What Makes You Beautiful.d8243c58fb192ce7811c.mp3",
+    "static/media/Trees.jpeg": "/iPod-Music-player/static/media/Trees.2a8d27e9297d483823bf.jpeg",
+    "static/media/Tower.jpeg": "/iPod-Music-player/static/media/Tower.1a75d9fa086acca6f9d6.jpeg",
+    "static/media/Mountain.jpeg": "/iPod-Music-player/static/media/Mountain.638e73d094214074bf9a.jpeg",
+    "static/media/Ocean.jpeg": "/iPod-Music-player/static/media/Ocean.c3721265e9247828b5d8.jpeg",
+    "static/media/Mist.jpeg": "/iPod-Music-player/static/media/Mist.d0eee47be3f769239793.jpeg",
+    "static/media/Games.jpg": "/iPod-Music-player/static/media/Games.aedc284248c652c9920e.jpg",
+    "static/media/music.jpg": "/iPod-Music-player/static/media/music.33734e15c4b3090767fa.jpg",
+    "static/media/Settings.jpg": "/iPod-Music-player/static/media/Settings.50690c9f1d4dc21e06c9.jpg",
+    "static/media/Dua Lipa New Rules.jpeg": "/iPod-Music-player/static/media/Dua Lipa New Rules.3fc7de8a7de7b989b316.jpeg",
+    "static/media/1D What Makes You Beautiful.jpeg": "/iPod-Music-player/static/media/1D What Makes You Beautiful.62662f7b1a99ae0daea1.jpeg",
+    "index.html": "/iPod-Music-player/index.html",
+    "main.259b7a4a.css.map": "/iPod-Music-player/static/css/main.259b7a4a.css.map",
+    "main.0b5b1344.js.map": "/iPod-Music-player/static/js/main.0b5b1344.js.map"
   },
   "entrypoints": [
     "static/css/main.259b7a4a.css",
-    "static/js/main.18177790.js"
+    "static/js/main.0b5b1344.js"
   ]
 }
